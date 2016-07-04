@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lemon Sugar Cookies
-subtitle: Excerpt from Soulshaping by Jeff Brown
+#subtitle: Excerpt from Soulshaping by Jeff Brown
 categories: cookies
 ---
 
