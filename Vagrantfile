@@ -29,7 +29,7 @@ Vagrant.configure("2") do |config|
   config.vm.synced_folder "./", "/vagrant"
   
   # Forwarded ports.
-  config.vm.network :forwarded_port, guest: 4000, host: 4000
+  config.vm.network :forwarded_port, guest: 4000, host: 4040
 
   # Remote access.
   config.ssh.forward_agent = true
@@ -38,7 +38,7 @@ Vagrant.configure("2") do |config|
   config.vm.provider :virtualbox do |vb|
     # Don't boot with headless mode.
     vb.gui = false
- 
+    vb.customize ["modifyvm", :id, "--natdnshostresolver1", "on"]
     # Use VBoxManage to customize the VM.
     vb.customize ["modifyvm", :id, "--memory", "512"]
   end
