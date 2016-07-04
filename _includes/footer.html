@@ -79,6 +79,11 @@
 		  &nbsp;&bull;&nbsp;
 		  {{ site.time | date: '%Y' }}
 		  
+    {% if site.author.website-url and site.author.website-title %}
+		  &nbsp;&bull;&nbsp;
+		  <a href="{{ site.author.website-url }}">{{ site.author.website-title }}</a>
+		  {% endif %}
+
 		  {% if site.url-pretty %}
 		  &nbsp;&bull;&nbsp;
 		  <a href="{{ site.url }}">{{ site.url-pretty }}</a>
