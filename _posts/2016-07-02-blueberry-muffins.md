@@ -17,7 +17,7 @@ categories: breads
 * Butter
 * Baking soda
 * Alum free Baking powder
-* Non-GMO unbleached all-purpose flour
+* Non-GMO unbleached unenriched white all-purpose flour
 * Eggs
 * Unrefined non-GMO cane sugar
 * Organic Blueberries

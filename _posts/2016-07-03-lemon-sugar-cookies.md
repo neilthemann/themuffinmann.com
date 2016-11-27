@@ -12,7 +12,7 @@ categories: cookies
 
 * Pink Himalayan salt 
 * Alum free Baking powder
-* Non-GMO unbleached all-purpose flour
+* Non-GMO unbleached unenriched white all-purpose flour
 * Unrefined non-GMO cane sugar
 * Eggs
 * Lemon Juice

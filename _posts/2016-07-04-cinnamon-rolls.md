@@ -28,7 +28,7 @@ The ingredients that I use in the items that I make are high quality and are non
 * 2% milk
 * Vegetable oil
 * Yeast
-* Non GMO unbleached all-purpose flour
+* Non-GMO unbleached unenriched white all-purpose flour
 * Pink Himalayan salt
 * Alum free baking powder
 * Baking soda
