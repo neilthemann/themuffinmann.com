@@ -21,3 +21,4 @@ categories: breads
 * Eggs
 * Unrefined non-GMO cane sugar
 * Organic Blueberries
+* Organic Applesauce
