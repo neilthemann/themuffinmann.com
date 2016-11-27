@@ -23,10 +23,10 @@ SCRIPT
 
 Vagrant.configure("2") do |config|
   # Base box.
-  config.vm.box = "xnerv/standard-debian-7.9.0-i386.box"
+  config.vm.box = "debian/wheezy64"
   
   # Shared folders.
-  config.vm.synced_folder "./", "/vagrant"
+  config.vm.synced_folder "./", "/vagrant", type: "virtualbox"
   
   # Forwarded ports.
   config.vm.network :forwarded_port, guest: 4000, host: 4040

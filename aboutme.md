@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: I really need to update this
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mindy Mann, I am married and have 3 crazy kids. I have a passion for baking yummy treats that are delicious and healthy. I am available to make baked goods for any event big or small around the Southwest MO area.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+If you are interested in booking an event or ordering any baked goods, please fill out this form and I will get back with you as soon as possible:
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<form method="POST" action="http://formspree.io/sales@themuffinmann.com">
+  <input type="email" name="email" placeholder="Your email">
+  <br/>
+  <textarea name="message" placeholder="Your message"></textarea>
+  <br/>
+  <button type="submit">Send</button>
+</form>
